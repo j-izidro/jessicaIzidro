@@ -2,9 +2,7 @@
 
 👩‍🎓 Graduação em Gestao da Tecnologia da Informação.
 
-😃 Desenvolvedora júnior e criadora de conteúdo digital.
-
-💻 Me aperfeiçoando em Java📚
+😃 Desenvolvedora júnior e criadora de conteúdo digital e me aperfeiçoando em Java📚
 
 Pronouns: ela/dela
 
