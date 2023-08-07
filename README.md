@@ -1,10 +1,10 @@
-#😊Olá! eu sou a Jéssica Izidro
+😊Olá! sou a Jéssica Izidro
 
--👩‍🎓 Sou estudante de gestao da tecnologia da informação.
+👩‍🎓 Graduação em Gestao da Tecnologia da Informação.
 
--😃Hoje trabalho com atendimento.
+😃 Desenvolvedora júnior e criadora de conteúdo digital.
 
--💻 Estudando c# e JS📚
+💻 Me aperfeiçoando em Java📚
 
 Pronouns: ela/dela
 
